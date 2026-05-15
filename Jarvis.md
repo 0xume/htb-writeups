@@ -1,7 +1,7 @@
 **Date**: 2026-05-02
 **Difficulty**: Medium
 **OS**: Linux
-**Tags**: **Tags**: #blind-sqli #sqlmap #phpmyadmin #cve-2018-12613 #metasploit #blacklist-bypass #suid #systemctl
+**Tags**: #blind-sqli #sqlmap #phpmyadmin #cve-2018-12613 #metasploit #blacklist-bypass #suid #systemctl
 
 ## TL;DR
 
